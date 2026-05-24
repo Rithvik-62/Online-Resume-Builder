@@ -1,4 +1,4 @@
-Online Resume Builder
+# Online Resume Builder
 
 A simple web-based application that helps users create professional resumes quickly using an easy form interface.
 
