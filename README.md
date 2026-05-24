@@ -34,22 +34,22 @@ Our project simplifies the process by generating resumes through an online form 
 
 # 🧩 Challenges We Faced
 1. Database Connection Issues
-We faced problems connecting PHP with MySQL.
+We faced problems connecting PHP with MySQL.<br>
 Solution:
 We checked XAMPP configuration, database settings, and fixed connection errors step by step.
 
 2. Form Data Handling
-Handling large amounts of user data from forms was difficult.
+Handling large amounts of user data from forms was difficult.<br>
 Solution:
 We organized the form handling code properly using PHP.
 
 3. Resume Layout Design
-Making the resume look clean and professional was challenging.
+Making the resume look clean and professional was challenging.<br>
 Solution:
 We improved the CSS styling and tested different layouts.
 
 4. Team Coordination
-Managing tasks in a group project was not easy.
+Managing tasks in a group project was not easy.<br>
 Solution:
 We divided the work into frontend, backend, and documentation tasks.
 
